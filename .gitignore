@@ -1,0 +1,11 @@
+# Inside pixiTape/.gitignore
+venv/
+__pycache__/
+*.pyc
+*.sqlite3
+node_modules/
+.env
+media/
+build/
+.DS_Store
+.idea/
